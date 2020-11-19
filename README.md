@@ -6,9 +6,7 @@
 
 # 信息素养实践
 
-```print(hello!)
-print(hello!)
-```
+`hello!`
 
 ```if		
 While True:
